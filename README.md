@@ -5,7 +5,7 @@ Profissional SysAdmin, Me especializando em DevOps / SRE.
 
 
 ### 🎓 Education
-- **Bacharelado em Ciências da Computação** - [UNESA](https://estacio.br/)
+
 
 
 - **AWS Certified Cloud Practitioner** - [AWS](https://www.credly.com/badges/d603bd03-aca5-41c8-a117-180e6f217a2f)
