@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78145&width=435&lines=Ol%C3%A1!+sou+o+Rafael+Mello)](https://git.io/typing-svg)
 
-Tenho de 5 anos de experiência em Infraestrutura de TI. Atuei na resolução de problemas relacionados a hardware, software e operações de data center com demandas de 99,9% de disponibilidade. Trabalhei para empresas de telecomunicações e instituições financeiras.
+Tenho 5 anos de experiência em Infraestrutura de TI onde atuei na resolução de problemas relacionados a hardware, software e operações de data center com demandas de 99,9% de disponibilidade. Trabalhei para empresas de telecomunicações e instituições financeiras.
 
 
 
@@ -25,8 +25,8 @@ Tenho de 5 anos de experiência em Infraestrutura de TI. Atuei na resolução de
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/seuid)
 -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafallltm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafallltm)
 
 
 
