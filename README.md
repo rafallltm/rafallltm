@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78145&width=435&lines=Ol%C3%A1!+sou+o+Rafael+Mello)](https://git.io/typing-svg)
 
-Tenho 5 anos de experiência em Infraestrutura de TI atuando na resolução de problemas relacionados a hardware, software e operações de data center. Nesse período, garanti ambientes com SLA de 99,9% em empresas dos setores de telecomunicações e instituições financeiras.
+Tenho 5 anos de experiência em Infraestrutura de TI atuando na resolução de problemas relacionados a hardware, software e operações de data center. Trabalhei em ambientes com SLA de 99,9% em empresas de telecomunicações e instituições financeiras.
 
 
 <!--
