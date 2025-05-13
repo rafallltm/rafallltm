@@ -1,7 +1,7 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78145&width=435&lines=Ol%C3%A1!+sou+o+Rafael)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78145&width=435&lines=Ol%C3%A1!+)](https://git.io/typing-svg)
 
 Tenho 5 anos de experiência com Infraestrutura de TI. Trabalhei na resolução de problemas relacionados a hardware, software e operações de data center em ambientes com SLA de 99,9% de disponibilidade prestando suporte para provedores de internet e bancos.
 
