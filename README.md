@@ -7,7 +7,7 @@ Tenho 5 anos de experiência com Infraestrutura de TI. Trabalhei na resolução 
 
 
 <!--
-  faço tudo local tipo fundo quintal meu hardware está sempre um passo atráz em termos de capacidade e isso me forçou a ter que ir pra virtualização desde emeados dos anos 2000 onde conheci o software livre. Tenho certificações AWS Cloud Practitioner e formação em Ciência da Computação pela UNESA.
+Faço tudo localmente tipo no fundo do quintal. Meu hardware está sempre um passo atrás em termos de capacidade e isso me forçou a adotar a virtualização desde meados dos anos 2000 quando conheci o software livre. Tenho certificação Fundamental da AWS e sou bacharel em Ciência da Computação pela UNESA 
 -->
 
  
