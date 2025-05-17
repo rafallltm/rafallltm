@@ -26,8 +26,8 @@ Faço tudo localmente tipo no fundo do quintal. Meu hardware está sempre um pas
 
 
 ## GitHub Stats
-![Metrics](https://github-readme-stats.vercel.app/api?username=rafallltm&show_icons=true&bg_color=00000000&hide_border=true&title_color=F78145&icon_color=F78145&text_color=ebdbb2&border_radius=10)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafallltm&layout=compact&bg_color=00000000&hide_border=true&title_color=F78145&text_color=ebdbb2&border_radius=10)
+![Metrics](https://github-readme-stats.vercel.app/api?username=rafallltm&show_icons=true&bg_color=00000000&hide_border=true&title_color=F78145&icon_color=F78145&text_color=ebdbb2&ring_color=649051)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafallltm&layout=compact&bg_color=00000000&hide_border=true&title_color=F78145&text_color=ebdbb2)
 
 
 ![Visitas](https://komarev.com/ghpvc/?username=rafallltm)
