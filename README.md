@@ -24,26 +24,18 @@ Tenho 5 anos de experiência com Infraestrutura de TI. Trabalhei na resolução 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/seuid)
 -->
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafallltm@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafallltm)
 
 
+## GitHub Stats
 
+![Metrics](https://github-readme-stats.vercel.app/api?username=rafallltm&show_icons=true&theme=gruvbox&bg_color=00000000&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafallltm&layout=compact&theme=gruvbox&bg_color=00000000&hide_border=true)
 
-
-
-
-
-
+![Visitas](https://komarev.com/ghpvc/?username=rafallltm)
 
 
 ---
 
 
-## GitHub Stats
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=rafallltm&show_icons=true&theme=gruvbox)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafallltm&layout=compact&theme=gruvbox)
-
-![Visitas](https://komarev.com/ghpvc/?username=rafallltm)
 
