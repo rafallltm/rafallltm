@@ -7,10 +7,9 @@ Tenho 5 anos de experiência com Infraestrutura de TI. Trabalhei na resolução 
 
 
 <!--
-  faço tudo local tipo fundo quintal meu hardware está sempre um passo atráz em termos de capacidade e isso me forçou a ter que ir pra virtualização desde emeados dos anos 2000 onde conheci o software livre. Tenho certificações AWS Cloud Practitioner, LFS169 e formação em Ciência da Computação pela UNESA.
+  faço tudo local tipo fundo quintal meu hardware está sempre um passo atráz em termos de capacidade e isso me forçou a ter que ir pra virtualização desde emeados dos anos 2000 onde conheci o software livre. Tenho certificações AWS Cloud Practitioner e formação em Ciência da Computação pela UNESA.
 -->
 
-## Contato
  
 <!--
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/seuperfil.bsky.social)
